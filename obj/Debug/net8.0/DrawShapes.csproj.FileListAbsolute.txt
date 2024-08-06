@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DrawShapes\bin\Debug\net8.0\DrawShapes.exe
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DrawShapes\bin\Debug\net8.0\DrawShapes.deps.json
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DrawShapes\bin\Debug\net8.0\DrawShapes.runtimeconfig.json
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DrawShapes\bin\Debug\net8.0\DrawShapes.dll
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DrawShapes\bin\Debug\net8.0\DrawShapes.pdb
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DrawShapes\obj\Debug\net8.0\DrawShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DrawShapes\obj\Debug\net8.0\DrawShapes.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DrawShapes\obj\Debug\net8.0\DrawShapes.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DrawShapes\obj\Debug\net8.0\DrawShapes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DrawShapes\obj\Debug\net8.0\DrawShapes.dll
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DrawShapes\obj\Debug\net8.0\refint\DrawShapes.dll
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DrawShapes\obj\Debug\net8.0\DrawShapes.pdb
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DrawShapes\obj\Debug\net8.0\DrawShapes.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Máy tính\CODING\2024-Y1\C#\Excercise\DrawShapes\obj\Debug\net8.0\ref\DrawShapes.dll
